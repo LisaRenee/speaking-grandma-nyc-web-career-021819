@@ -15,3 +15,13 @@ RSpec.configure do |config|
   #     --seed 1234
   config.order = 'default'
 end
+def speak_to_grandma(phrase = "Hi Nana, how are you?")
+  if phrase !== "Hi Nana, how are you".upcase
+  print "HUH?! SPEAK UP, SONNY!"
+elseif
+  phrase.upcase == "Hi Nana, how are you".upcase
+  print NO, NOT SINCE 1938!
+else
+  I LOVE YOU GRANDMA! == "I LOVE YOU GRANDMA!"
+  return I LOVE YOU TOO PUMPKIN!
+  end
